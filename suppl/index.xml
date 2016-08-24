@@ -1,0 +1,2768 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suppls on Lu et al. Poster No.</title>
+    <link>/hydra2016/suppl/</link>
+    <description>Recent content in Suppls on Lu et al. Poster No.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</managingEditor>
+    <webMaster>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</webMaster>
+    <atom:link href="/hydra2016/suppl/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>bO-ko00536</title>
+      <link>/hydra2016/suppl/bO-ko00536/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko00536/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_067900.1&lt;/td&gt;
+&lt;td&gt;K09554&lt;/td&gt;
+&lt;td&gt;CDC37; cell division cycle protein 37&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko01000</title>
+      <link>/hydra2016/suppl/bO-ko01000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko01000/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_001360.1&lt;/td&gt;
+&lt;td&gt;K00943&lt;/td&gt;
+&lt;td&gt;tmk, DTYMK; dTMP kinase [EC:2.7.4.9]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_002080.1&lt;/td&gt;
+&lt;td&gt;K00789&lt;/td&gt;
+&lt;td&gt;metK; S-adenosylmethionine synthetase [EC:2.5.1.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_002510.1&lt;/td&gt;
+&lt;td&gt;K00162&lt;/td&gt;
+&lt;td&gt;PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_003660.1&lt;/td&gt;
+&lt;td&gt;K12812&lt;/td&gt;
+&lt;td&gt;UAP56, BAT1, SUB2; ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_003990.1&lt;/td&gt;
+&lt;td&gt;K01803&lt;/td&gt;
+&lt;td&gt;TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_004220.1&lt;/td&gt;
+&lt;td&gt;K15528&lt;/td&gt;
+&lt;td&gt;FAAH; fatty acid amide hydrolase [EC:3.5.1.99]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_004470.1&lt;/td&gt;
+&lt;td&gt;K20011&lt;/td&gt;
+&lt;td&gt;PRDX3; peroxiredoxin 3 [EC:1.11.1.15]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_004780.2&lt;/td&gt;
+&lt;td&gt;K09571&lt;/td&gt;
+&lt;td&gt;FKBP4_5; FK506-binding protein &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt; [EC:5.2.1.8]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_005080.2&lt;/td&gt;
+&lt;td&gt;K14835&lt;/td&gt;
+&lt;td&gt;NOP2; ribosomal RNA methyltransferase Nop2 [EC:2.1.1.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_007550.1&lt;/td&gt;
+&lt;td&gt;K01254&lt;/td&gt;
+&lt;td&gt;LTA4H; leukotriene-A4 hydrolase [EC:3.3.2.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_008830.1&lt;/td&gt;
+&lt;td&gt;K11654&lt;/td&gt;
+&lt;td&gt;SMARCA5, SNF2H, ISWI; SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5 [EC:3.6.4.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_009030.1&lt;/td&gt;
+&lt;td&gt;K10807&lt;/td&gt;
+&lt;td&gt;RRM1; ribonucleoside-diphosphate reductase subunit M1 [EC:1.17.4.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_009430.1&lt;/td&gt;
+&lt;td&gt;K10251&lt;/td&gt;
+&lt;td&gt;HSD17B12, KAR, IFA38; 17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase [EC:1.1.1.62 1.1.1.330]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_009650.1&lt;/td&gt;
+&lt;td&gt;K17732&lt;/td&gt;
+&lt;td&gt;PMPCB, MAS1; mitochondrial-processing peptidase subunit beta [EC:3.4.24.64]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_011120.1&lt;/td&gt;
+&lt;td&gt;K01265&lt;/td&gt;
+&lt;td&gt;map; methionyl aminopeptidase [EC:3.4.11.18]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_012930.1&lt;/td&gt;
+&lt;td&gt;K00088&lt;/td&gt;
+&lt;td&gt;guaB; IMP dehydrogenase [EC:1.1.1.205]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_013040.1&lt;/td&gt;
+&lt;td&gt;K01379&lt;/td&gt;
+&lt;td&gt;CTSD; cathepsin D [EC:3.4.23.5]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_013790.1&lt;/td&gt;
+&lt;td&gt;K12823&lt;/td&gt;
+&lt;td&gt;DDX5, DBP2; ATP-dependent RNA helicase DDX5/DBP2 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_015710.1&lt;/td&gt;
+&lt;td&gt;K19028&lt;/td&gt;
+&lt;td&gt;PFKFB1; 6-phosphofructo-2-kinase / fructose-2,6-biphosphatase 1 [EC:2.7.1.105 3.1.3.46]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_019010.1&lt;/td&gt;
+&lt;td&gt;K01277&lt;/td&gt;
+&lt;td&gt;DPP3; dipeptidyl-peptidase III [EC:3.4.14.4]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_019630.1&lt;/td&gt;
+&lt;td&gt;K14677&lt;/td&gt;
+&lt;td&gt;ACY1; aminoacylase [EC:3.5.1.14]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_022090.1&lt;/td&gt;
+&lt;td&gt;K00948&lt;/td&gt;
+&lt;td&gt;PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_022960.1&lt;/td&gt;
+&lt;td&gt;K00128&lt;/td&gt;
+&lt;td&gt;E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_024110.1&lt;/td&gt;
+&lt;td&gt;K01689&lt;/td&gt;
+&lt;td&gt;ENO, eno; enolase [EC:4.2.1.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_025800.1&lt;/td&gt;
+&lt;td&gt;K02732&lt;/td&gt;
+&lt;td&gt;PSMB1; 20S proteasome subunit beta 6 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_026310.1&lt;/td&gt;
+&lt;td&gt;K07512&lt;/td&gt;
+&lt;td&gt;MECR, NRBF1; mitochondrial trans-2-enoyl-CoA reductase [EC:1.3.1.38]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_026700.1&lt;/td&gt;
+&lt;td&gt;K05545&lt;/td&gt;
+&lt;td&gt;DUS4; tRNA-dihydrouridine synthase 4 [EC:1.3.1.90]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_028440.1&lt;/td&gt;
+&lt;td&gt;K01251&lt;/td&gt;
+&lt;td&gt;E3.3.1.1, ahcY; adenosylhomocysteinase [EC:3.3.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_029500.1&lt;/td&gt;
+&lt;td&gt;K01392&lt;/td&gt;
+&lt;td&gt;THOP1; thimet oligopeptidase [EC:3.4.24.15]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_030330.2&lt;/td&gt;
+&lt;td&gt;K04794&lt;/td&gt;
+&lt;td&gt;PTH2; peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_031040.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_032580.1&lt;/td&gt;
+&lt;td&gt;K02729&lt;/td&gt;
+&lt;td&gt;PSMA5; 20S proteasome subunit alpha 5 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_032810.1&lt;/td&gt;
+&lt;td&gt;K00943&lt;/td&gt;
+&lt;td&gt;tmk, DTYMK; dTMP kinase [EC:2.7.4.9]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_033540.1&lt;/td&gt;
+&lt;td&gt;K00079&lt;/td&gt;
+&lt;td&gt;CBR1; carbonyl reductase 1 [EC:1.1.1.184 1.1.1.189 1.1.1.197]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_033710.1&lt;/td&gt;
+&lt;td&gt;K11594&lt;/td&gt;
+&lt;td&gt;DDX3X, bel; ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_034190.1&lt;/td&gt;
+&lt;td&gt;K13025&lt;/td&gt;
+&lt;td&gt;EIF4A3, FAL1; ATP-dependent RNA helicase [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_034490.1&lt;/td&gt;
+&lt;td&gt;K02738&lt;/td&gt;
+&lt;td&gt;PSMB6; 20S proteasome subunit beta 1 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_035030.1&lt;/td&gt;
+&lt;td&gt;K13184&lt;/td&gt;
+&lt;td&gt;DHX9; ATP-dependent RNA helicase A [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_035270.2&lt;/td&gt;
+&lt;td&gt;K00025&lt;/td&gt;
+&lt;td&gt;MDH1; malate dehydrogenase [EC:1.1.1.37]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_038100.1&lt;/td&gt;
+&lt;td&gt;K02133&lt;/td&gt;
+&lt;td&gt;ATPeF1B, ATP5B, ATP2; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_038240.1&lt;/td&gt;
+&lt;td&gt;K01872&lt;/td&gt;
+&lt;td&gt;AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_038870.2&lt;/td&gt;
+&lt;td&gt;K03934&lt;/td&gt;
+&lt;td&gt;NDUFS1; NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:1.6.5.3 1.6.99.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_038950.1&lt;/td&gt;
+&lt;td&gt;K00016&lt;/td&gt;
+&lt;td&gt;LDH, ldh; L-lactate dehydrogenase [EC:1.1.1.27]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_040790.1&lt;/td&gt;
+&lt;td&gt;K03768&lt;/td&gt;
+&lt;td&gt;PPIB, ppiB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_041450.1&lt;/td&gt;
+&lt;td&gt;K01893&lt;/td&gt;
+&lt;td&gt;NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_042160.2&lt;/td&gt;
+&lt;td&gt;K01623&lt;/td&gt;
+&lt;td&gt;ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_042590.2&lt;/td&gt;
+&lt;td&gt;K03941&lt;/td&gt;
+&lt;td&gt;NDUFS8; NADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:1.6.5.3 1.6.99.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_044280.1&lt;/td&gt;
+&lt;td&gt;K14563&lt;/td&gt;
+&lt;td&gt;NOP1, FBL; rRNA 2&amp;rsquo;-O-methyltransferase fibrillarin [EC:2.1.1.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_044970.1&lt;/td&gt;
+&lt;td&gt;K00164&lt;/td&gt;
+&lt;td&gt;OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_046740.1&lt;/td&gt;
+&lt;td&gt;K00382&lt;/td&gt;
+&lt;td&gt;DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_047370.1&lt;/td&gt;
+&lt;td&gt;K00026&lt;/td&gt;
+&lt;td&gt;MDH2; malate dehydrogenase [EC:1.1.1.37]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_048430.1&lt;/td&gt;
+&lt;td&gt;K00384&lt;/td&gt;
+&lt;td&gt;trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_049150.1&lt;/td&gt;
+&lt;td&gt;K14454&lt;/td&gt;
+&lt;td&gt;GOT1; aspartate aminotransferase, cytoplasmic [EC:2.6.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_050080.1&lt;/td&gt;
+&lt;td&gt;K00109&lt;/td&gt;
+&lt;td&gt;E1.1.99.2; 2-hydroxyglutarate dehydrogenase [EC:1.1.99.2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_050390.1&lt;/td&gt;
+&lt;td&gt;K00128&lt;/td&gt;
+&lt;td&gt;E1.2.1.3; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_050590.1&lt;/td&gt;
+&lt;td&gt;K00670&lt;/td&gt;
+&lt;td&gt;E2.3.1.88; peptide alpha-N-acetyltransferase [EC:2.3.1.88]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_052810.1&lt;/td&gt;
+&lt;td&gt;K00036&lt;/td&gt;
+&lt;td&gt;G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053220.1&lt;/td&gt;
+&lt;td&gt;K00011&lt;/td&gt;
+&lt;td&gt;E1.1.1.21, AKR1; aldehyde reductase [EC:1.1.1.21]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053230.1&lt;/td&gt;
+&lt;td&gt;K00326&lt;/td&gt;
+&lt;td&gt;E1.6.2.2; cytochrome-b5 reductase [EC:1.6.2.2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053510.1&lt;/td&gt;
+&lt;td&gt;K01876&lt;/td&gt;
+&lt;td&gt;DARS, aspS; aspartyl-tRNA synthetase [EC:6.1.1.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053610.1&lt;/td&gt;
+&lt;td&gt;K01875&lt;/td&gt;
+&lt;td&gt;SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_054160.1&lt;/td&gt;
+&lt;td&gt;K04097&lt;/td&gt;
+&lt;td&gt;HPGDS; prostaglandin-H2 D-isomerase / glutathione transferase [EC:5.3.99.2 2.5.1.18]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_054410.1&lt;/td&gt;
+&lt;td&gt;K00759&lt;/td&gt;
+&lt;td&gt;APRT, apt; adenine phosphoribosyltransferase [EC:2.4.2.7]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_055890.1&lt;/td&gt;
+&lt;td&gt;K10808&lt;/td&gt;
+&lt;td&gt;RRM2; ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_056200.1&lt;/td&gt;
+&lt;td&gt;K00030&lt;/td&gt;
+&lt;td&gt;IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_056440.1&lt;/td&gt;
+&lt;td&gt;K04564&lt;/td&gt;
+&lt;td&gt;SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_056760.1&lt;/td&gt;
+&lt;td&gt;K09580&lt;/td&gt;
+&lt;td&gt;PDIA1, P4HB; protein disulfide-isomerase A1 [EC:5.3.4.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_056970.3&lt;/td&gt;
+&lt;td&gt;K00134&lt;/td&gt;
+&lt;td&gt;GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_057320.1&lt;/td&gt;
+&lt;td&gt;K06027&lt;/td&gt;
+&lt;td&gt;NSF; vesicle-fusing ATPase [EC:3.6.4.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_059790.2&lt;/td&gt;
+&lt;td&gt;K00615&lt;/td&gt;
+&lt;td&gt;E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_061230.1&lt;/td&gt;
+&lt;td&gt;K00234&lt;/td&gt;
+&lt;td&gt;SDHA, SDH1; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_061940.1&lt;/td&gt;
+&lt;td&gt;K00939&lt;/td&gt;
+&lt;td&gt;adk, AK; adenylate kinase [EC:2.7.4.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_062520.1&lt;/td&gt;
+&lt;td&gt;K00670&lt;/td&gt;
+&lt;td&gt;E2.3.1.88; peptide alpha-N-acetyltransferase [EC:2.3.1.88]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_063830.1&lt;/td&gt;
+&lt;td&gt;K01951&lt;/td&gt;
+&lt;td&gt;guaA, GMPS; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_064380.1&lt;/td&gt;
+&lt;td&gt;K14455&lt;/td&gt;
+&lt;td&gt;GOT2; aspartate aminotransferase, mitochondrial [EC:2.6.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_065060.1&lt;/td&gt;
+&lt;td&gt;K00294&lt;/td&gt;
+&lt;td&gt;E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_065610.2&lt;/td&gt;
+&lt;td&gt;K00873&lt;/td&gt;
+&lt;td&gt;PK, pyk; pyruvate kinase [EC:2.7.1.40]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_065840.1&lt;/td&gt;
+&lt;td&gt;K03164&lt;/td&gt;
+&lt;td&gt;TOP2; DNA topoisomerase II [EC:5.99.1.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_067890.1&lt;/td&gt;
+&lt;td&gt;K02726&lt;/td&gt;
+&lt;td&gt;PSMA2; 20S proteasome subunit alpha 2 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_067980.1&lt;/td&gt;
+&lt;td&gt;K06689&lt;/td&gt;
+&lt;td&gt;UBE2D, UBC4, UBC5; ubiquitin-conjugating enzyme E2 D [EC:2.3.2.23]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_068090.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_068920.3&lt;/td&gt;
+&lt;td&gt;K11131&lt;/td&gt;
+&lt;td&gt;DKC1, NOLA4, CBF5; H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_070600.1&lt;/td&gt;
+&lt;td&gt;K00616&lt;/td&gt;
+&lt;td&gt;E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_071840.1&lt;/td&gt;
+&lt;td&gt;K00033&lt;/td&gt;
+&lt;td&gt;PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_072900.1&lt;/td&gt;
+&lt;td&gt;K15730&lt;/td&gt;
+&lt;td&gt;PTGES3; cytosolic prostaglandin-E synthase [EC:5.3.99.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_074400.1&lt;/td&gt;
+&lt;td&gt;K11366&lt;/td&gt;
+&lt;td&gt;USP22_27_51, UBP8; ubiquitin carboxyl-terminal hydrolase 22/27/51 [EC:3.4.19.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_075470.1&lt;/td&gt;
+&lt;td&gt;K04487&lt;/td&gt;
+&lt;td&gt;iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_076230.1&lt;/td&gt;
+&lt;td&gt;K02731&lt;/td&gt;
+&lt;td&gt;PSMA7; 20S proteasome subunit alpha 4 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_079230.1&lt;/td&gt;
+&lt;td&gt;K09568&lt;/td&gt;
+&lt;td&gt;FKBP1; FK506-binding protein 1 [EC:5.2.1.8]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_079240.1&lt;/td&gt;
+&lt;td&gt;K01520&lt;/td&gt;
+&lt;td&gt;dut, DUT; dUTP pyrophosphatase [EC:3.6.1.23]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_079770.1&lt;/td&gt;
+&lt;td&gt;K08056&lt;/td&gt;
+&lt;td&gt;PDIA3, GRP58; protein disulfide isomerase family A, member 3 [EC:5.3.4.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_082050.1&lt;/td&gt;
+&lt;td&gt;K04649&lt;/td&gt;
+&lt;td&gt;HIP2, UBC1; ubiquitin-conjugating enzyme (huntingtin interacting protein 2) [EC:2.3.2.23]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_082620.1&lt;/td&gt;
+&lt;td&gt;K06013&lt;/td&gt;
+&lt;td&gt;STE24; STE24 endopeptidase [EC:3.4.24.84]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_083650.1&lt;/td&gt;
+&lt;td&gt;K01758&lt;/td&gt;
+&lt;td&gt;CTH; cystathionine gamma-lyase [EC:4.4.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_087270.1&lt;/td&gt;
+&lt;td&gt;K12820&lt;/td&gt;
+&lt;td&gt;DHX15, PRP43; pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15/PRP43 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_087760.1&lt;/td&gt;
+&lt;td&gt;K00522&lt;/td&gt;
+&lt;td&gt;FTH1; ferritin heavy chain [EC:1.16.3.2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_089180.1&lt;/td&gt;
+&lt;td&gt;K11838&lt;/td&gt;
+&lt;td&gt;USP7, UBP15; ubiquitin carboxyl-terminal hydrolase 7 [EC:3.4.19.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_089460.1&lt;/td&gt;
+&lt;td&gt;K08585&lt;/td&gt;
+&lt;td&gt;CAPNN; calpain, invertebrate [EC:3.4.22.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_090520.1&lt;/td&gt;
+&lt;td&gt;K03783&lt;/td&gt;
+&lt;td&gt;punA; purine-nucleoside phosphorylase [EC:2.4.2.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_091010.1&lt;/td&gt;
+&lt;td&gt;K01069&lt;/td&gt;
+&lt;td&gt;E3.1.2.6, gloB; hydroxyacylglutathione hydrolase [EC:3.1.2.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_092280.1&lt;/td&gt;
+&lt;td&gt;K02727&lt;/td&gt;
+&lt;td&gt;PSMA3; 20S proteasome subunit alpha 7 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_092570.1&lt;/td&gt;
+&lt;td&gt;K03936&lt;/td&gt;
+&lt;td&gt;NDUFS3; NADH dehydrogenase (ubiquinone) Fe-S protein 3 [EC:1.6.5.3 1.6.99.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_092750.1&lt;/td&gt;
+&lt;td&gt;K00940&lt;/td&gt;
+&lt;td&gt;ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_093690.1&lt;/td&gt;
+&lt;td&gt;K12858&lt;/td&gt;
+&lt;td&gt;DDX23, PRP28; ATP-dependent RNA helicase DDX23/PRP28 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_093820.1&lt;/td&gt;
+&lt;td&gt;K00261&lt;/td&gt;
+&lt;td&gt;GLUD1_2, gdhA; glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094020.1&lt;/td&gt;
+&lt;td&gt;K13179&lt;/td&gt;
+&lt;td&gt;DDX18, HAS1; ATP-dependent RNA helicase DDX18/HAS1 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094050.2&lt;/td&gt;
+&lt;td&gt;K01412&lt;/td&gt;
+&lt;td&gt;PMPCA, MAS2; mitochondrial-processing peptidase subunit alpha [EC:3.4.24.64]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094060.1&lt;/td&gt;
+&lt;td&gt;K01890&lt;/td&gt;
+&lt;td&gt;FARSB, pheT; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_096760.1&lt;/td&gt;
+&lt;td&gt;K01834&lt;/td&gt;
+&lt;td&gt;PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099030.1&lt;/td&gt;
+&lt;td&gt;K03097&lt;/td&gt;
+&lt;td&gt;CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_102070.1&lt;/td&gt;
+&lt;td&gt;K00799&lt;/td&gt;
+&lt;td&gt;GST, gst; glutathione S-transferase [EC:2.5.1.18]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_103560.1&lt;/td&gt;
+&lt;td&gt;K00760&lt;/td&gt;
+&lt;td&gt;hprT, hpt, HPRT1; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_103950.1&lt;/td&gt;
+&lt;td&gt;K02449&lt;/td&gt;
+&lt;td&gt;CDK10; cyclin-dependent kinase 10 [EC:2.7.11.22]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_104470.2&lt;/td&gt;
+&lt;td&gt;K04567&lt;/td&gt;
+&lt;td&gt;KARS, lysS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_104580.1&lt;/td&gt;
+&lt;td&gt;K01783&lt;/td&gt;
+&lt;td&gt;rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_105700.1&lt;/td&gt;
+&lt;td&gt;K12854&lt;/td&gt;
+&lt;td&gt;SNRNP200, BRR2; pre-mRNA-splicing helicase BRR2 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_121430.2&lt;/td&gt;
+&lt;td&gt;K02735&lt;/td&gt;
+&lt;td&gt;PSMB3; 20S proteasome subunit beta 3 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_123990.1&lt;/td&gt;
+&lt;td&gt;K01868&lt;/td&gt;
+&lt;td&gt;TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_125500.1&lt;/td&gt;
+&lt;td&gt;K05906&lt;/td&gt;
+&lt;td&gt;PCYOX1, FCLY; prenylcysteine oxidase / farnesylcysteine lyase [EC:1.8.3.5 1.8.3.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_128770.1&lt;/td&gt;
+&lt;td&gt;K11835&lt;/td&gt;
+&lt;td&gt;USP4_11_15, UBP12; ubiquitin carboxyl-terminal hydrolase 4/11/15 [EC:3.4.19.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_129630.1&lt;/td&gt;
+&lt;td&gt;K06176&lt;/td&gt;
+&lt;td&gt;truD, PUS7; tRNA pseudouridine13 synthase [EC:5.4.99.27]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_132690.1&lt;/td&gt;
+&lt;td&gt;K11338&lt;/td&gt;
+&lt;td&gt;RUVBL2, RVB2, INO80J; RuvB-like protein 2 [EC:3.6.4.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_133120.1&lt;/td&gt;
+&lt;td&gt;K13178&lt;/td&gt;
+&lt;td&gt;DDX17; ATP-dependent RNA helicase DDX17 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_133280.1&lt;/td&gt;
+&lt;td&gt;K01887&lt;/td&gt;
+&lt;td&gt;RARS, argS; arginyl-tRNA synthetase [EC:6.1.1.19]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_137330.1&lt;/td&gt;
+&lt;td&gt;K17989&lt;/td&gt;
+&lt;td&gt;SDS, SDH, CHA1; L-serine/L-threonine ammonia-lyase [EC:4.3.1.17 4.3.1.19]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_138930.2&lt;/td&gt;
+&lt;td&gt;K14163&lt;/td&gt;
+&lt;td&gt;EPRS; bifunctional glutamyl/prolyl-tRNA synthetase [EC:6.1.1.17 6.1.1.15]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_146140.1&lt;/td&gt;
+&lt;td&gt;K06972&lt;/td&gt;
+&lt;td&gt;PITRM1, PreP, CYM1; presequence protease [EC:3.4.24.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_146800.1&lt;/td&gt;
+&lt;td&gt;K17339&lt;/td&gt;
+&lt;td&gt;ATL; atlastin [EC:3.6.5.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_150690.1&lt;/td&gt;
+&lt;td&gt;K14813&lt;/td&gt;
+&lt;td&gt;ARX1; metalloprotease ARX1 [EC:3.-.-.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_151030.1&lt;/td&gt;
+&lt;td&gt;K08683&lt;/td&gt;
+&lt;td&gt;HSD17B10; 3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA dehydrogenase [EC:1.1.1.35 1.1.1.178]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_153150.1&lt;/td&gt;
+&lt;td&gt;K01942&lt;/td&gt;
+&lt;td&gt;HLCS; biotin&amp;ndash;protein ligase [EC:6.3.4.9 6.3.4.10 6.3.4.11 6.3.4.15]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_153350.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_162630.1&lt;/td&gt;
+&lt;td&gt;K03178&lt;/td&gt;
+&lt;td&gt;UBE1, UBA1; ubiquitin-activating enzyme E1 [EC:6.2.1.45]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_163050.1&lt;/td&gt;
+&lt;td&gt;K00031&lt;/td&gt;
+&lt;td&gt;IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_167150.1&lt;/td&gt;
+&lt;td&gt;K10599&lt;/td&gt;
+&lt;td&gt;PRPF19, PRP19; pre-mRNA-processing factor 19 [EC:2.3.2.27]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_169740.1&lt;/td&gt;
+&lt;td&gt;K08073&lt;/td&gt;
+&lt;td&gt;PNKP; bifunctional polynucleotide phosphatase/kinase [EC:3.1.3.32 2.7.1.78]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_169960.1&lt;/td&gt;
+&lt;td&gt;K14165&lt;/td&gt;
+&lt;td&gt;K14165; atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_171150.1&lt;/td&gt;
+&lt;td&gt;K02516&lt;/td&gt;
+&lt;td&gt;PRMT5, HSL7; type II protein arginine methyltransferase [EC:2.1.1.320]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_172110.1&lt;/td&gt;
+&lt;td&gt;K09584&lt;/td&gt;
+&lt;td&gt;PDIA6, TXNDC7; protein disulfide-isomerase A6 [EC:5.3.4.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_172530.1&lt;/td&gt;
+&lt;td&gt;K02212&lt;/td&gt;
+&lt;td&gt;MCM4, CDC54; DNA replication licensing factor MCM4 [EC:3.6.4.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_178700.1&lt;/td&gt;
+&lt;td&gt;K11303&lt;/td&gt;
+&lt;td&gt;HAT1, KAT1; histone acetyltransferase 1 [EC:2.3.1.48]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_179300.3&lt;/td&gt;
+&lt;td&gt;K10624&lt;/td&gt;
+&lt;td&gt;RBBP6; E3 ubiquitin-protein ligase RBBP6 [EC:2.3.2.27]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_179590.1&lt;/td&gt;
+&lt;td&gt;K13298&lt;/td&gt;
+&lt;td&gt;PDE11; dual 3&amp;rsquo;,5&amp;rsquo;-cyclic-AMP and -GMP phosphodiesterase 11 [EC:3.1.4.17 3.1.4.35]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_186670.1&lt;/td&gt;
+&lt;td&gt;K11540&lt;/td&gt;
+&lt;td&gt;CAD; carbamoyl-phosphate synthase / aspartate carbamoyltransferase / dihydroorotase [EC:6.3.5.5 2.1.3.2 3.5.2.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_195000.1&lt;/td&gt;
+&lt;td&gt;K01482&lt;/td&gt;
+&lt;td&gt;DDAH, ddaH; dimethylargininase [EC:3.5.3.18]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_198050.1&lt;/td&gt;
+&lt;td&gt;K01923&lt;/td&gt;
+&lt;td&gt;purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_199210.1&lt;/td&gt;
+&lt;td&gt;K05850&lt;/td&gt;
+&lt;td&gt;ATP2B; Ca2+ transporting ATPase, plasma membrane [EC:3.6.3.8]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_199810.1&lt;/td&gt;
+&lt;td&gt;K00921&lt;/td&gt;
+&lt;td&gt;PIKFYVE, FAB1; 1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_199860.1&lt;/td&gt;
+&lt;td&gt;K00020&lt;/td&gt;
+&lt;td&gt;mmsB, HIBADH; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_200410.1&lt;/td&gt;
+&lt;td&gt;K00560&lt;/td&gt;
+&lt;td&gt;thyA, TYMS; thymidylate synthase [EC:2.1.1.45]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_204770.1&lt;/td&gt;
+&lt;td&gt;K01647&lt;/td&gt;
+&lt;td&gt;CS, gltA; citrate synthase [EC:2.3.3.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_210640.1&lt;/td&gt;
+&lt;td&gt;K11423&lt;/td&gt;
+&lt;td&gt;SETD2, SET2; histone-lysine N-methyltransferase SETD2 [EC:2.1.1.43]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_211330.1&lt;/td&gt;
+&lt;td&gt;K15691&lt;/td&gt;
+&lt;td&gt;RFWD3; E3 ubiquitin-protein ligase RFWD3 [EC:2.3.2.27]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_212190.1&lt;/td&gt;
+&lt;td&gt;K00627&lt;/td&gt;
+&lt;td&gt;DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko01001</title>
+      <link>/hydra2016/suppl/bO-ko01001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko01001/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_099030.1&lt;/td&gt;
+&lt;td&gt;K03097&lt;/td&gt;
+&lt;td&gt;CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_103950.1&lt;/td&gt;
+&lt;td&gt;K02449&lt;/td&gt;
+&lt;td&gt;CDK10; cyclin-dependent kinase 10 [EC:2.7.11.22]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko01002</title>
+      <link>/hydra2016/suppl/bO-ko01002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko01002/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_007550.1&lt;/td&gt;
+&lt;td&gt;K01254&lt;/td&gt;
+&lt;td&gt;LTA4H; leukotriene-A4 hydrolase [EC:3.3.2.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_009650.1&lt;/td&gt;
+&lt;td&gt;K17732&lt;/td&gt;
+&lt;td&gt;PMPCB, MAS1; mitochondrial-processing peptidase subunit beta [EC:3.4.24.64]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_011120.1&lt;/td&gt;
+&lt;td&gt;K01265&lt;/td&gt;
+&lt;td&gt;map; methionyl aminopeptidase [EC:3.4.11.18]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_013040.1&lt;/td&gt;
+&lt;td&gt;K01379&lt;/td&gt;
+&lt;td&gt;CTSD; cathepsin D [EC:3.4.23.5]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_019010.1&lt;/td&gt;
+&lt;td&gt;K01277&lt;/td&gt;
+&lt;td&gt;DPP3; dipeptidyl-peptidase III [EC:3.4.14.4]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_019630.1&lt;/td&gt;
+&lt;td&gt;K14677&lt;/td&gt;
+&lt;td&gt;ACY1; aminoacylase [EC:3.5.1.14]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_025800.1&lt;/td&gt;
+&lt;td&gt;K02732&lt;/td&gt;
+&lt;td&gt;PSMB1; 20S proteasome subunit beta 6 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_029500.1&lt;/td&gt;
+&lt;td&gt;K01392&lt;/td&gt;
+&lt;td&gt;THOP1; thimet oligopeptidase [EC:3.4.24.15]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_032580.1&lt;/td&gt;
+&lt;td&gt;K02729&lt;/td&gt;
+&lt;td&gt;PSMA5; 20S proteasome subunit alpha 5 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_034490.1&lt;/td&gt;
+&lt;td&gt;K02738&lt;/td&gt;
+&lt;td&gt;PSMB6; 20S proteasome subunit beta 1 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_063830.1&lt;/td&gt;
+&lt;td&gt;K01951&lt;/td&gt;
+&lt;td&gt;guaA, GMPS; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_067890.1&lt;/td&gt;
+&lt;td&gt;K02726&lt;/td&gt;
+&lt;td&gt;PSMA2; 20S proteasome subunit alpha 2 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_074400.1&lt;/td&gt;
+&lt;td&gt;K11366&lt;/td&gt;
+&lt;td&gt;USP22_27_51, UBP8; ubiquitin carboxyl-terminal hydrolase 22/27/51 [EC:3.4.19.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_076230.1&lt;/td&gt;
+&lt;td&gt;K02731&lt;/td&gt;
+&lt;td&gt;PSMA7; 20S proteasome subunit alpha 4 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_082030.1&lt;/td&gt;
+&lt;td&gt;K05687&lt;/td&gt;
+&lt;td&gt;PARK7; protein DJ-1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_082620.1&lt;/td&gt;
+&lt;td&gt;K06013&lt;/td&gt;
+&lt;td&gt;STE24; STE24 endopeptidase [EC:3.4.24.84]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_089180.1&lt;/td&gt;
+&lt;td&gt;K11838&lt;/td&gt;
+&lt;td&gt;USP7, UBP15; ubiquitin carboxyl-terminal hydrolase 7 [EC:3.4.19.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_089460.1&lt;/td&gt;
+&lt;td&gt;K08585&lt;/td&gt;
+&lt;td&gt;CAPNN; calpain, invertebrate [EC:3.4.22.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_092280.1&lt;/td&gt;
+&lt;td&gt;K02727&lt;/td&gt;
+&lt;td&gt;PSMA3; 20S proteasome subunit alpha 7 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094050.2&lt;/td&gt;
+&lt;td&gt;K01412&lt;/td&gt;
+&lt;td&gt;PMPCA, MAS2; mitochondrial-processing peptidase subunit alpha [EC:3.4.24.64]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_121430.2&lt;/td&gt;
+&lt;td&gt;K02735&lt;/td&gt;
+&lt;td&gt;PSMB3; 20S proteasome subunit beta 3 [EC:3.4.25.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_128770.1&lt;/td&gt;
+&lt;td&gt;K11835&lt;/td&gt;
+&lt;td&gt;USP4_11_15, UBP12; ubiquitin carboxyl-terminal hydrolase 4/11/15 [EC:3.4.19.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_146140.1&lt;/td&gt;
+&lt;td&gt;K06972&lt;/td&gt;
+&lt;td&gt;PITRM1, PreP, CYM1; presequence protease [EC:3.4.24.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_186670.1&lt;/td&gt;
+&lt;td&gt;K11540&lt;/td&gt;
+&lt;td&gt;CAD; carbamoyl-phosphate synthase / aspartate carbamoyltransferase / dihydroorotase [EC:6.3.5.5 2.1.3.2 3.5.2.3]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko01004</title>
+      <link>/hydra2016/suppl/bO-ko01004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko01004/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_009430.1&lt;/td&gt;
+&lt;td&gt;K10251&lt;/td&gt;
+&lt;td&gt;HSD17B12, KAR, IFA38; 17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase [EC:1.1.1.62 1.1.1.330]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko01007</title>
+      <link>/hydra2016/suppl/bO-ko01007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko01007/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_038240.1&lt;/td&gt;
+&lt;td&gt;K01872&lt;/td&gt;
+&lt;td&gt;AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_041450.1&lt;/td&gt;
+&lt;td&gt;K01893&lt;/td&gt;
+&lt;td&gt;NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_049150.1&lt;/td&gt;
+&lt;td&gt;K14454&lt;/td&gt;
+&lt;td&gt;GOT1; aspartate aminotransferase, cytoplasmic [EC:2.6.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053510.1&lt;/td&gt;
+&lt;td&gt;K01876&lt;/td&gt;
+&lt;td&gt;DARS, aspS; aspartyl-tRNA synthetase [EC:6.1.1.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053610.1&lt;/td&gt;
+&lt;td&gt;K01875&lt;/td&gt;
+&lt;td&gt;SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_064380.1&lt;/td&gt;
+&lt;td&gt;K14455&lt;/td&gt;
+&lt;td&gt;GOT2; aspartate aminotransferase, mitochondrial [EC:2.6.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094060.1&lt;/td&gt;
+&lt;td&gt;K01890&lt;/td&gt;
+&lt;td&gt;FARSB, pheT; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_104470.2&lt;/td&gt;
+&lt;td&gt;K04567&lt;/td&gt;
+&lt;td&gt;KARS, lysS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_123990.1&lt;/td&gt;
+&lt;td&gt;K01868&lt;/td&gt;
+&lt;td&gt;TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_133280.1&lt;/td&gt;
+&lt;td&gt;K01887&lt;/td&gt;
+&lt;td&gt;RARS, argS; arginyl-tRNA synthetase [EC:6.1.1.19]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko01009</title>
+      <link>/hydra2016/suppl/bO-ko01009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko01009/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_026560.2&lt;/td&gt;
+&lt;td&gt;K02183&lt;/td&gt;
+&lt;td&gt;CALM; calmodulin&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_028440.1&lt;/td&gt;
+&lt;td&gt;K01251&lt;/td&gt;
+&lt;td&gt;E3.3.1.1, ahcY; adenosylhomocysteinase [EC:3.3.1.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_032320.6&lt;/td&gt;
+&lt;td&gt;K12900&lt;/td&gt;
+&lt;td&gt;FUSIP1; FUS-interacting serine-arginine-rich protein 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_072330.2&lt;/td&gt;
+&lt;td&gt;K04079&lt;/td&gt;
+&lt;td&gt;htpG, HSP90A; molecular chaperone HtpG&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_106930.1&lt;/td&gt;
+&lt;td&gt;K03283&lt;/td&gt;
+&lt;td&gt;HSPA1_8; heat shock 70kDa protein &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_153410.1&lt;/td&gt;
+&lt;td&gt;K03456&lt;/td&gt;
+&lt;td&gt;PPP2R1; serine/threonine-protein phosphatase 2A regulatory subunit A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_169740.1&lt;/td&gt;
+&lt;td&gt;K08073&lt;/td&gt;
+&lt;td&gt;PNKP; bifunctional polynucleotide phosphatase/kinase [EC:3.1.3.32 2.7.1.78]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_169960.1&lt;/td&gt;
+&lt;td&gt;K14165&lt;/td&gt;
+&lt;td&gt;K14165; atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_200920.1&lt;/td&gt;
+&lt;td&gt;K02932&lt;/td&gt;
+&lt;td&gt;RP-L5e, RPL5; large subunit ribosomal protein L5e&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko02000</title>
+      <link>/hydra2016/suppl/bO-ko02000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko02000/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_004080.1&lt;/td&gt;
+&lt;td&gt;K15104&lt;/td&gt;
+&lt;td&gt;SLC25A11, OGC; solute carrier family 25 (mitochondrial oxoglutarate transporter), member 11&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_010930.1&lt;/td&gt;
+&lt;td&gt;K17768&lt;/td&gt;
+&lt;td&gt;TOM70; mitochondrial import receptor subunit TOM70&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_022990.1&lt;/td&gt;
+&lt;td&gt;K15040&lt;/td&gt;
+&lt;td&gt;VDAC2; voltage-dependent anion channel protein 2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_024360.1&lt;/td&gt;
+&lt;td&gt;K17496&lt;/td&gt;
+&lt;td&gt;TIM50; mitochondrial import inner membrane translocase subunit TIM50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_042560.1&lt;/td&gt;
+&lt;td&gt;K11518&lt;/td&gt;
+&lt;td&gt;TOM40; mitochondrial import receptor subunit TOM40&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_049550.1&lt;/td&gt;
+&lt;td&gt;K09490&lt;/td&gt;
+&lt;td&gt;HSPA5, BIP; heat shock 70kDa protein 5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_061560.1&lt;/td&gt;
+&lt;td&gt;K17781&lt;/td&gt;
+&lt;td&gt;TIM13; mitochondrial import inner membrane translocase subunit TIM13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_065110.1&lt;/td&gt;
+&lt;td&gt;K17800&lt;/td&gt;
+&lt;td&gt;LETM1, MDM38; LETM1 and EF-hand domain-containing protein 1, mitochondrial&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_069130.2&lt;/td&gt;
+&lt;td&gt;K09489&lt;/td&gt;
+&lt;td&gt;HSPA4; heat shock 70kDa protein 4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_079220.1&lt;/td&gt;
+&lt;td&gt;K05863&lt;/td&gt;
+&lt;td&gt;SLC25A4S, ANT; solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_083720.1&lt;/td&gt;
+&lt;td&gt;K15102&lt;/td&gt;
+&lt;td&gt;SLC25A3, PHC, PIC; solute carrier family 25 (mitochondrial phosphate transporter), member 3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_091240.1&lt;/td&gt;
+&lt;td&gt;K15040&lt;/td&gt;
+&lt;td&gt;VDAC2; voltage-dependent anion channel protein 2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_106130.2&lt;/td&gt;
+&lt;td&gt;K04043&lt;/td&gt;
+&lt;td&gt;dnaK; molecular chaperone DnaK&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_106930.1&lt;/td&gt;
+&lt;td&gt;K03283&lt;/td&gt;
+&lt;td&gt;HSPA1_8; heat shock 70kDa protein &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_134460.1&lt;/td&gt;
+&lt;td&gt;K16302&lt;/td&gt;
+&lt;td&gt;CNNM; metal transporter CNNM&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_136210.1&lt;/td&gt;
+&lt;td&gt;K17770&lt;/td&gt;
+&lt;td&gt;TOM20; mitochondrial import receptor subunit TOM20&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_172390.1&lt;/td&gt;
+&lt;td&gt;K15276&lt;/td&gt;
+&lt;td&gt;SLC35B2, PAPST1; solute carrier family 35 (adenosine 3&amp;rsquo;-phospho 5&amp;rsquo;-phosphosulfate transporter), member B2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko02022</title>
+      <link>/hydra2016/suppl/bO-ko02022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko02022/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_170310.1&lt;/td&gt;
+&lt;td&gt;K02483&lt;/td&gt;
+&lt;td&gt;K02483; two-component system, OmpR family, response regulator&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko03000</title>
+      <link>/hydra2016/suppl/bO-ko03000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko03000/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_148930.1&lt;/td&gt;
+&lt;td&gt;K09272&lt;/td&gt;
+&lt;td&gt;SSRP1; structure-specific recognition protein 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_179300.1&lt;/td&gt;
+&lt;td&gt;K09250&lt;/td&gt;
+&lt;td&gt;CNBP; cellular nucleic acid-binding protein&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko03009</title>
+      <link>/hydra2016/suppl/bO-ko03009/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko03009/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_005080.2&lt;/td&gt;
+&lt;td&gt;K14835&lt;/td&gt;
+&lt;td&gt;NOP2; ribosomal RNA methyltransferase Nop2 [EC:2.1.1.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_012980.1&lt;/td&gt;
+&lt;td&gt;K03245&lt;/td&gt;
+&lt;td&gt;EIF3J; translation initiation factor 3 subunit J&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_013790.1&lt;/td&gt;
+&lt;td&gt;K12823&lt;/td&gt;
+&lt;td&gt;DDX5, DBP2; ATP-dependent RNA helicase DDX5/DBP2 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_025010.1&lt;/td&gt;
+&lt;td&gt;K03115&lt;/td&gt;
+&lt;td&gt;CSNK2B; casein kinase II subunit beta&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_029750.1&lt;/td&gt;
+&lt;td&gt;K14800&lt;/td&gt;
+&lt;td&gt;TSR2; pre-rRNA-processing protein TSR2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_034190.1&lt;/td&gt;
+&lt;td&gt;K13025&lt;/td&gt;
+&lt;td&gt;EIF4A3, FAL1; ATP-dependent RNA helicase [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_038930.1&lt;/td&gt;
+&lt;td&gt;K14799&lt;/td&gt;
+&lt;td&gt;TSR1; pre-rRNA-processing protein TSR1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_040540.1&lt;/td&gt;
+&lt;td&gt;K06185&lt;/td&gt;
+&lt;td&gt;ABCF2; ATP-binding cassette, subfamily F, member 2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_044280.1&lt;/td&gt;
+&lt;td&gt;K14563&lt;/td&gt;
+&lt;td&gt;NOP1, FBL; rRNA 2&amp;rsquo;-O-methyltransferase fibrillarin [EC:2.1.1.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_048660.1&lt;/td&gt;
+&lt;td&gt;K14564&lt;/td&gt;
+&lt;td&gt;NOP56; nucleolar protein 56&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_068920.3&lt;/td&gt;
+&lt;td&gt;K11131&lt;/td&gt;
+&lt;td&gt;DKC1, NOLA4, CBF5; H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_079430.2&lt;/td&gt;
+&lt;td&gt;K07936&lt;/td&gt;
+&lt;td&gt;RAN; GTP-binding nuclear protein Ran&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_087270.1&lt;/td&gt;
+&lt;td&gt;K12820&lt;/td&gt;
+&lt;td&gt;DHX15, PRP43; pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15/PRP43 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_093320.1&lt;/td&gt;
+&lt;td&gt;K11130&lt;/td&gt;
+&lt;td&gt;NOP10, NOLA3; H/ACA ribonucleoprotein complex subunit 3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094020.1&lt;/td&gt;
+&lt;td&gt;K13179&lt;/td&gt;
+&lt;td&gt;DDX18, HAS1; ATP-dependent RNA helicase DDX18/HAS1 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094570.1&lt;/td&gt;
+&lt;td&gt;K14552&lt;/td&gt;
+&lt;td&gt;NAN1, UTP17, WDR75; NET1-associated nuclear protein 1 (U3 small nucleolar RNA-associated protein 17)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099030.1&lt;/td&gt;
+&lt;td&gt;K03097&lt;/td&gt;
+&lt;td&gt;CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_106930.1&lt;/td&gt;
+&lt;td&gt;K03283&lt;/td&gt;
+&lt;td&gt;HSPA1_8; heat shock 70kDa protein &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_124460.1&lt;/td&gt;
+&lt;td&gt;K06174&lt;/td&gt;
+&lt;td&gt;ABCE1, Rli1; ATP-binding cassette, sub-family E, member 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_124820.1&lt;/td&gt;
+&lt;td&gt;K14290&lt;/td&gt;
+&lt;td&gt;XPO1, CRM1; exportin-1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_133350.1&lt;/td&gt;
+&lt;td&gt;K06943&lt;/td&gt;
+&lt;td&gt;NOG1; nucleolar GTP-binding protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_138160.1&lt;/td&gt;
+&lt;td&gt;K15262&lt;/td&gt;
+&lt;td&gt;BCP1, BCCIP; protein BCP1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_148990.1&lt;/td&gt;
+&lt;td&gt;K14565&lt;/td&gt;
+&lt;td&gt;NOP58; nucleolar protein 58&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_150690.1&lt;/td&gt;
+&lt;td&gt;K14813&lt;/td&gt;
+&lt;td&gt;ARX1; metalloprotease ARX1 [EC:3.-.-.-]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_150840.2&lt;/td&gt;
+&lt;td&gt;K15263&lt;/td&gt;
+&lt;td&gt;LYER; cell growth-regulating nucleolar protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_160420.1&lt;/td&gt;
+&lt;td&gt;K14823&lt;/td&gt;
+&lt;td&gt;EBP2, EBNA1BP2; rRNA-processing protein EBP2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_210300.1&lt;/td&gt;
+&lt;td&gt;K02936&lt;/td&gt;
+&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_210310.1&lt;/td&gt;
+&lt;td&gt;K02936&lt;/td&gt;
+&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko03011</title>
+      <link>/hydra2016/suppl/bO-ko03011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko03011/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_001830.2&lt;/td&gt;
+&lt;td&gt;K02896&lt;/td&gt;
+&lt;td&gt;RP-L24e, RPL24; large subunit ribosomal protein L24e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_003410.1&lt;/td&gt;
+&lt;td&gt;K02893&lt;/td&gt;
+&lt;td&gt;RP-L23Ae, RPL23A; large subunit ribosomal protein L23Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_004940.1&lt;/td&gt;
+&lt;td&gt;K02918&lt;/td&gt;
+&lt;td&gt;RP-L35e, RPL35; large subunit ribosomal protein L35e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_007900.1&lt;/td&gt;
+&lt;td&gt;K02894&lt;/td&gt;
+&lt;td&gt;RP-L23e, RPL23; large subunit ribosomal protein L23e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_009690.1&lt;/td&gt;
+&lt;td&gt;K02941&lt;/td&gt;
+&lt;td&gt;RP-LP0, RPLP0; large subunit ribosomal protein LP0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_012750.1&lt;/td&gt;
+&lt;td&gt;K02870&lt;/td&gt;
+&lt;td&gt;RP-L12e, RPL12; large subunit ribosomal protein L12e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_013200.2&lt;/td&gt;
+&lt;td&gt;K02866&lt;/td&gt;
+&lt;td&gt;RP-L10e, RPL10; large subunit ribosomal protein L10e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_013470.2&lt;/td&gt;
+&lt;td&gt;K02981&lt;/td&gt;
+&lt;td&gt;RP-S2e, RPS2; small subunit ribosomal protein S2e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_014650.1&lt;/td&gt;
+&lt;td&gt;K02983&lt;/td&gt;
+&lt;td&gt;RP-S30e, RPS30; small subunit ribosomal protein S30e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_018990.1&lt;/td&gt;
+&lt;td&gt;K02940&lt;/td&gt;
+&lt;td&gt;RP-L9e, RPL9; large subunit ribosomal protein L9e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_021140.1&lt;/td&gt;
+&lt;td&gt;K02993&lt;/td&gt;
+&lt;td&gt;RP-S7e, RPS7; small subunit ribosomal protein S7e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_022560.2&lt;/td&gt;
+&lt;td&gt;K02889&lt;/td&gt;
+&lt;td&gt;RP-L21e, RPL21; large subunit ribosomal protein L21e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_022640.1&lt;/td&gt;
+&lt;td&gt;K02873&lt;/td&gt;
+&lt;td&gt;RP-L13e, RPL13; large subunit ribosomal protein L13e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_024850.1&lt;/td&gt;
+&lt;td&gt;K02880&lt;/td&gt;
+&lt;td&gt;RP-L17e, RPL17; large subunit ribosomal protein L17e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_027610.1&lt;/td&gt;
+&lt;td&gt;K02985&lt;/td&gt;
+&lt;td&gt;RP-S3e, RPS3; small subunit ribosomal protein S3e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_029820.1&lt;/td&gt;
+&lt;td&gt;K02943&lt;/td&gt;
+&lt;td&gt;RP-LP2, RPLP2; large subunit ribosomal protein LP2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_031310.1&lt;/td&gt;
+&lt;td&gt;K02976&lt;/td&gt;
+&lt;td&gt;RP-S26e, RPS26; small subunit ribosomal protein S26e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_031570.1&lt;/td&gt;
+&lt;td&gt;K02883&lt;/td&gt;
+&lt;td&gt;RP-L18e, RPL18; large subunit ribosomal protein L18e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_032260.1&lt;/td&gt;
+&lt;td&gt;K02877&lt;/td&gt;
+&lt;td&gt;RP-L15e, RPL15; large subunit ribosomal protein L15e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_032760.1&lt;/td&gt;
+&lt;td&gt;K02949&lt;/td&gt;
+&lt;td&gt;RP-S11e, RPS11; small subunit ribosomal protein S11e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_035790.1&lt;/td&gt;
+&lt;td&gt;K02929&lt;/td&gt;
+&lt;td&gt;RP-L44e, RPL44; large subunit ribosomal protein L44e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_035800.1&lt;/td&gt;
+&lt;td&gt;K02922&lt;/td&gt;
+&lt;td&gt;RP-L37e, RPL37; large subunit ribosomal protein L37e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_038510.1&lt;/td&gt;
+&lt;td&gt;K02934&lt;/td&gt;
+&lt;td&gt;RP-L6e, RPL6; large subunit ribosomal protein L6e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_041650.1&lt;/td&gt;
+&lt;td&gt;K02978&lt;/td&gt;
+&lt;td&gt;RP-S27e, RPS27; small subunit ribosomal protein S27e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_042090.1&lt;/td&gt;
+&lt;td&gt;K02865&lt;/td&gt;
+&lt;td&gt;RP-L10Ae, RPL10A; large subunit ribosomal protein L10Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_044580.1&lt;/td&gt;
+&lt;td&gt;K02908&lt;/td&gt;
+&lt;td&gt;RP-L30e, RPL30; large subunit ribosomal protein L30e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_047200.1&lt;/td&gt;
+&lt;td&gt;K02925&lt;/td&gt;
+&lt;td&gt;RP-L3e, RPL3; large subunit ribosomal protein L3e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_050280.1&lt;/td&gt;
+&lt;td&gt;K02910&lt;/td&gt;
+&lt;td&gt;RP-L31e, RPL31; large subunit ribosomal protein L31e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_050940.1&lt;/td&gt;
+&lt;td&gt;K02868&lt;/td&gt;
+&lt;td&gt;RP-L11e, RPL11; large subunit ribosomal protein L11e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_051110.1&lt;/td&gt;
+&lt;td&gt;K17433&lt;/td&gt;
+&lt;td&gt;MRPL52; large subunit ribosomal protein L52&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_051260.1&lt;/td&gt;
+&lt;td&gt;K02938&lt;/td&gt;
+&lt;td&gt;RP-L8e, RPL8; large subunit ribosomal protein L8e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053130.1&lt;/td&gt;
+&lt;td&gt;K02991&lt;/td&gt;
+&lt;td&gt;RP-S6e, RPS6; small subunit ribosomal protein S6e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053830.1&lt;/td&gt;
+&lt;td&gt;K02955&lt;/td&gt;
+&lt;td&gt;RP-S14e, RPS14; small subunit ribosomal protein S14e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_054780.1&lt;/td&gt;
+&lt;td&gt;K02995&lt;/td&gt;
+&lt;td&gt;RP-S8e, RPS8; small subunit ribosomal protein S8e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_055050.1&lt;/td&gt;
+&lt;td&gt;K02962&lt;/td&gt;
+&lt;td&gt;RP-S17e, RPS17; small subunit ribosomal protein S17e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_058720.1&lt;/td&gt;
+&lt;td&gt;K02923&lt;/td&gt;
+&lt;td&gt;RP-L38e, RPL38; large subunit ribosomal protein L38e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_060090.1&lt;/td&gt;
+&lt;td&gt;K02951&lt;/td&gt;
+&lt;td&gt;RP-S12e, RPS12; small subunit ribosomal protein S12e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_061200.1&lt;/td&gt;
+&lt;td&gt;K02917&lt;/td&gt;
+&lt;td&gt;RP-L35Ae, RPL35A; large subunit ribosomal protein L35Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_063300.1&lt;/td&gt;
+&lt;td&gt;K02920&lt;/td&gt;
+&lt;td&gt;RP-L36e, RPL36; large subunit ribosomal protein L36e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_063350.1&lt;/td&gt;
+&lt;td&gt;K02901&lt;/td&gt;
+&lt;td&gt;RP-L27e, RPL27; large subunit ribosomal protein L27e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_066740.1&lt;/td&gt;
+&lt;td&gt;K02935&lt;/td&gt;
+&lt;td&gt;RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_066890.1&lt;/td&gt;
+&lt;td&gt;K02947&lt;/td&gt;
+&lt;td&gt;RP-S10e, RPS10; small subunit ribosomal protein S10e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_066940.1&lt;/td&gt;
+&lt;td&gt;K02905&lt;/td&gt;
+&lt;td&gt;RP-L29e, RPL29; large subunit ribosomal protein L29e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_066990.1&lt;/td&gt;
+&lt;td&gt;K02969&lt;/td&gt;
+&lt;td&gt;RP-S20e, RPS20; small subunit ribosomal protein S20e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_073880.1&lt;/td&gt;
+&lt;td&gt;K02984&lt;/td&gt;
+&lt;td&gt;RP-S3Ae, RPS3A; small subunit ribosomal protein S3Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_074470.1&lt;/td&gt;
+&lt;td&gt;K02973&lt;/td&gt;
+&lt;td&gt;RP-S23e, RPS23; small subunit ribosomal protein S23e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_074780.1&lt;/td&gt;
+&lt;td&gt;K02964&lt;/td&gt;
+&lt;td&gt;RP-S18e, RPS18; small subunit ribosomal protein S18e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_076740.1&lt;/td&gt;
+&lt;td&gt;K02957&lt;/td&gt;
+&lt;td&gt;RP-S15Ae, RPS15A; small subunit ribosomal protein S15Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_084460.1&lt;/td&gt;
+&lt;td&gt;K02903&lt;/td&gt;
+&lt;td&gt;RP-L28e, RPL28; large subunit ribosomal protein L28e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_085300.1&lt;/td&gt;
+&lt;td&gt;K02891&lt;/td&gt;
+&lt;td&gt;RP-L22e, RPL22; large subunit ribosomal protein L22e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_089430.1&lt;/td&gt;
+&lt;td&gt;K02927&lt;/td&gt;
+&lt;td&gt;RP-L40e, RPL40; large subunit ribosomal protein L40e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_090230.1&lt;/td&gt;
+&lt;td&gt;K02872&lt;/td&gt;
+&lt;td&gt;RP-L13Ae, RPL13A; large subunit ribosomal protein L13Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_091640.1&lt;/td&gt;
+&lt;td&gt;K02974&lt;/td&gt;
+&lt;td&gt;RP-S24e, RPS24; small subunit ribosomal protein S24e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_093440.1&lt;/td&gt;
+&lt;td&gt;K02989&lt;/td&gt;
+&lt;td&gt;RP-S5e, RPS5; small subunit ribosomal protein S5e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_096750.1&lt;/td&gt;
+&lt;td&gt;K02953&lt;/td&gt;
+&lt;td&gt;RP-S13e, RPS13; small subunit ribosomal protein S13e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_098960.1&lt;/td&gt;
+&lt;td&gt;K02898&lt;/td&gt;
+&lt;td&gt;RP-L26e, RPL26; large subunit ribosomal protein L26e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_101450.1&lt;/td&gt;
+&lt;td&gt;K02937&lt;/td&gt;
+&lt;td&gt;RP-L7e, RPL7; large subunit ribosomal protein L7e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_105320.1&lt;/td&gt;
+&lt;td&gt;K02921&lt;/td&gt;
+&lt;td&gt;RP-L37Ae, RPL37A; large subunit ribosomal protein L37Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_119920.1&lt;/td&gt;
+&lt;td&gt;K02960&lt;/td&gt;
+&lt;td&gt;RP-S16e, RPS16; small subunit ribosomal protein S16e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_130850.1&lt;/td&gt;
+&lt;td&gt;K02965&lt;/td&gt;
+&lt;td&gt;RP-S19, rpsS; small subunit ribosomal protein S19&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_146190.1&lt;/td&gt;
+&lt;td&gt;K02971&lt;/td&gt;
+&lt;td&gt;RP-S21e, RPS21; small subunit ribosomal protein S21e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_153790.1&lt;/td&gt;
+&lt;td&gt;K02930&lt;/td&gt;
+&lt;td&gt;RP-L4e, RPL4; large subunit ribosomal protein L4e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_174950.1&lt;/td&gt;
+&lt;td&gt;K02966&lt;/td&gt;
+&lt;td&gt;RP-S19e, RPS19; small subunit ribosomal protein S19e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_175740.2&lt;/td&gt;
+&lt;td&gt;K02875&lt;/td&gt;
+&lt;td&gt;RP-L14e, RPL14; large subunit ribosomal protein L14e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_179180.1&lt;/td&gt;
+&lt;td&gt;K02998&lt;/td&gt;
+&lt;td&gt;RP-SAe, RPSA; small subunit ribosomal protein SAe&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_180000.1&lt;/td&gt;
+&lt;td&gt;K02997&lt;/td&gt;
+&lt;td&gt;RP-S9e, RPS9; small subunit ribosomal protein S9e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_200920.1&lt;/td&gt;
+&lt;td&gt;K02932&lt;/td&gt;
+&lt;td&gt;RP-L5e, RPL5; large subunit ribosomal protein L5e&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_210300.1&lt;/td&gt;
+&lt;td&gt;K02936&lt;/td&gt;
+&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_210300.1&lt;/td&gt;
+&lt;td&gt;K02936&lt;/td&gt;
+&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_210310.1&lt;/td&gt;
+&lt;td&gt;K02936&lt;/td&gt;
+&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_210310.1&lt;/td&gt;
+&lt;td&gt;K02936&lt;/td&gt;
+&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_211250.1&lt;/td&gt;
+&lt;td&gt;K02915&lt;/td&gt;
+&lt;td&gt;RP-L34e, RPL34; large subunit ribosomal protein L34e&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko03012</title>
+      <link>/hydra2016/suppl/bO-ko03012/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko03012/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_000480.1&lt;/td&gt;
+&lt;td&gt;K03252&lt;/td&gt;
+&lt;td&gt;EIF3C; translation initiation factor 3 subunit C&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_001170.1&lt;/td&gt;
+&lt;td&gt;K03254&lt;/td&gt;
+&lt;td&gt;EIF3A; translation initiation factor 3 subunit A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_001500.1&lt;/td&gt;
+&lt;td&gt;K03259&lt;/td&gt;
+&lt;td&gt;EIF4E; translation initiation factor 4E&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_003970.1&lt;/td&gt;
+&lt;td&gt;K03232&lt;/td&gt;
+&lt;td&gt;EEF1B; elongation factor 1-beta&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_005180.1&lt;/td&gt;
+&lt;td&gt;K03267&lt;/td&gt;
+&lt;td&gt;ERF3, GSPT; peptide chain release factor subunit 3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_006990.1&lt;/td&gt;
+&lt;td&gt;K03243&lt;/td&gt;
+&lt;td&gt;EIF5B; translation initiation factor 5B&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_012980.1&lt;/td&gt;
+&lt;td&gt;K03245&lt;/td&gt;
+&lt;td&gt;EIF3J; translation initiation factor 3 subunit J&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_017010.1&lt;/td&gt;
+&lt;td&gt;K03260&lt;/td&gt;
+&lt;td&gt;EIF4G; translation initiation factor 4G&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_029410.1&lt;/td&gt;
+&lt;td&gt;K15030&lt;/td&gt;
+&lt;td&gt;EIF3M; translation initiation factor 3 subunit M&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_030330.2&lt;/td&gt;
+&lt;td&gt;K04794&lt;/td&gt;
+&lt;td&gt;PTH2; peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_030690.1&lt;/td&gt;
+&lt;td&gt;K03232&lt;/td&gt;
+&lt;td&gt;EEF1B; elongation factor 1-beta&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_034190.1&lt;/td&gt;
+&lt;td&gt;K13025&lt;/td&gt;
+&lt;td&gt;EIF4A3, FAL1; ATP-dependent RNA helicase [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_039400.1&lt;/td&gt;
+&lt;td&gt;K03263&lt;/td&gt;
+&lt;td&gt;EIF5A; translation initiation factor 5A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_073500.1&lt;/td&gt;
+&lt;td&gt;K02358&lt;/td&gt;
+&lt;td&gt;tuf, TUFM; elongation factor Tu&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_075690.1&lt;/td&gt;
+&lt;td&gt;K02355&lt;/td&gt;
+&lt;td&gt;fusA, GFM, EFG; elongation factor G&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_083410.1&lt;/td&gt;
+&lt;td&gt;K03233&lt;/td&gt;
+&lt;td&gt;EEF1G; elongation factor 1-gamma&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_093750.1&lt;/td&gt;
+&lt;td&gt;K03237&lt;/td&gt;
+&lt;td&gt;EIF2S1; translation initiation factor 2 subunit 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_095150.1&lt;/td&gt;
+&lt;td&gt;K03242&lt;/td&gt;
+&lt;td&gt;EIF2S3; translation initiation factor 2 subunit 3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099870.1&lt;/td&gt;
+&lt;td&gt;K03231&lt;/td&gt;
+&lt;td&gt;EEF1A; elongation factor 1-alpha&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_122840.1&lt;/td&gt;
+&lt;td&gt;K03262&lt;/td&gt;
+&lt;td&gt;EIF5; translation initiation factor 5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_136290.1&lt;/td&gt;
+&lt;td&gt;K03251&lt;/td&gt;
+&lt;td&gt;EIF3D; translation initiation factor 3 subunit D&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_143140.1&lt;/td&gt;
+&lt;td&gt;K03234&lt;/td&gt;
+&lt;td&gt;EEF2; elongation factor 2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_143150.1&lt;/td&gt;
+&lt;td&gt;K03234&lt;/td&gt;
+&lt;td&gt;EEF2; elongation factor 2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_166040.1&lt;/td&gt;
+&lt;td&gt;K06184&lt;/td&gt;
+&lt;td&gt;ABCF1; ATP-binding cassette, subfamily F, member 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_192360.1&lt;/td&gt;
+&lt;td&gt;K03248&lt;/td&gt;
+&lt;td&gt;EIF3G; translation initiation factor 3 subunit G&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko03016</title>
+      <link>/hydra2016/suppl/bO-ko03016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko03016/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_026700.1&lt;/td&gt;
+&lt;td&gt;K05545&lt;/td&gt;
+&lt;td&gt;DUS4; tRNA-dihydrouridine synthase 4 [EC:1.3.1.90]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_031040.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_031040.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_038240.1&lt;/td&gt;
+&lt;td&gt;K01872&lt;/td&gt;
+&lt;td&gt;AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_040450.1&lt;/td&gt;
+&lt;td&gt;K15456&lt;/td&gt;
+&lt;td&gt;KTI12; protein KTI12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_041450.1&lt;/td&gt;
+&lt;td&gt;K01893&lt;/td&gt;
+&lt;td&gt;NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053510.1&lt;/td&gt;
+&lt;td&gt;K01876&lt;/td&gt;
+&lt;td&gt;DARS, aspS; aspartyl-tRNA synthetase [EC:6.1.1.12]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053610.1&lt;/td&gt;
+&lt;td&gt;K01875&lt;/td&gt;
+&lt;td&gt;SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_068090.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_068090.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_073620.1&lt;/td&gt;
+&lt;td&gt;K15437&lt;/td&gt;
+&lt;td&gt;AIMP1, ARC1; aminoacyl tRNA synthase complex-interacting multifunctional protein 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_075470.1&lt;/td&gt;
+&lt;td&gt;K04487&lt;/td&gt;
+&lt;td&gt;iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_079430.2&lt;/td&gt;
+&lt;td&gt;K07936&lt;/td&gt;
+&lt;td&gt;RAN; GTP-binding nuclear protein Ran&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094060.1&lt;/td&gt;
+&lt;td&gt;K01890&lt;/td&gt;
+&lt;td&gt;FARSB, pheT; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099870.1&lt;/td&gt;
+&lt;td&gt;K03231&lt;/td&gt;
+&lt;td&gt;EEF1A; elongation factor 1-alpha&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_104470.2&lt;/td&gt;
+&lt;td&gt;K04567&lt;/td&gt;
+&lt;td&gt;KARS, lysS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_123990.1&lt;/td&gt;
+&lt;td&gt;K01868&lt;/td&gt;
+&lt;td&gt;TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_124820.1&lt;/td&gt;
+&lt;td&gt;K14290&lt;/td&gt;
+&lt;td&gt;XPO1, CRM1; exportin-1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_129630.1&lt;/td&gt;
+&lt;td&gt;K06176&lt;/td&gt;
+&lt;td&gt;truD, PUS7; tRNA pseudouridine13 synthase [EC:5.4.99.27]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_133280.1&lt;/td&gt;
+&lt;td&gt;K01887&lt;/td&gt;
+&lt;td&gt;RARS, argS; arginyl-tRNA synthetase [EC:6.1.1.19]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_138930.2&lt;/td&gt;
+&lt;td&gt;K14163&lt;/td&gt;
+&lt;td&gt;EPRS; bifunctional glutamyl/prolyl-tRNA synthetase [EC:6.1.1.17 6.1.1.15]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_153350.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_153350.1&lt;/td&gt;
+&lt;td&gt;K00784&lt;/td&gt;
+&lt;td&gt;rnz; ribonuclease Z [EC:3.1.26.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_196910.1&lt;/td&gt;
+&lt;td&gt;K15456&lt;/td&gt;
+&lt;td&gt;KTI12; protein KTI12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bO-ko03019</title>
+      <link>/hydra2016/suppl/bO-ko03019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/suppl/bO-ko03019/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Gene ID&lt;/th&gt;
+&lt;th&gt;KEGG Brite&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Smp_001500.1&lt;/td&gt;
+&lt;td&gt;K03259&lt;/td&gt;
+&lt;td&gt;EIF4E; translation initiation factor 4E&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_002550.1&lt;/td&gt;
+&lt;td&gt;K12876&lt;/td&gt;
+&lt;td&gt;RBM8A, Y14; RNA-binding protein 8A&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_003660.1&lt;/td&gt;
+&lt;td&gt;K12812&lt;/td&gt;
+&lt;td&gt;UAP56, BAT1, SUB2; ATP-dependent RNA helicase UAP56/SUB2 [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_005180.1&lt;/td&gt;
+&lt;td&gt;K03267&lt;/td&gt;
+&lt;td&gt;ERF3, GSPT; peptide chain release factor subunit 3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_005260.2&lt;/td&gt;
+&lt;td&gt;K12881&lt;/td&gt;
+&lt;td&gt;THOC4, ALY; THO complex subunit 4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_007630.1&lt;/td&gt;
+&lt;td&gt;K14396&lt;/td&gt;
+&lt;td&gt;PABPN1, PABP2; polyadenylate-binding protein 2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_008545.1&lt;/td&gt;
+&lt;td&gt;K04077&lt;/td&gt;
+&lt;td&gt;groEL, HSPD1; chaperonin GroEL&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_016050.1&lt;/td&gt;
+&lt;td&gt;K15516&lt;/td&gt;
+&lt;td&gt;FMR; fragile X mental retardation protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_016050.1&lt;/td&gt;
+&lt;td&gt;K15516&lt;/td&gt;
+&lt;td&gt;FMR; fragile X mental retardation protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_016050.1&lt;/td&gt;
+&lt;td&gt;K15516&lt;/td&gt;
+&lt;td&gt;FMR; fragile X mental retardation protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_016410.1&lt;/td&gt;
+&lt;td&gt;K12172&lt;/td&gt;
+&lt;td&gt;RANBP2, NUP358; E3 SUMO-protein ligase RanBP2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_017010.1&lt;/td&gt;
+&lt;td&gt;K03260&lt;/td&gt;
+&lt;td&gt;EIF4G; translation initiation factor 4G&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_018240.3&lt;/td&gt;
+&lt;td&gt;K13525&lt;/td&gt;
+&lt;td&gt;VCP, CDC48; transitional endoplasmic reticulum ATPase&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_024110.1&lt;/td&gt;
+&lt;td&gt;K01689&lt;/td&gt;
+&lt;td&gt;ENO, eno; enolase [EC:4.2.1.11]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_024140.4&lt;/td&gt;
+&lt;td&gt;K13126&lt;/td&gt;
+&lt;td&gt;PABPC; polyadenylate-binding protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_033710.1&lt;/td&gt;
+&lt;td&gt;K11594&lt;/td&gt;
+&lt;td&gt;DDX3X, bel; ATP-dependent RNA helicase DDX3X [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_034190.1&lt;/td&gt;
+&lt;td&gt;K13025&lt;/td&gt;
+&lt;td&gt;EIF4A3, FAL1; ATP-dependent RNA helicase [EC:3.6.4.13]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_044550.2&lt;/td&gt;
+&lt;td&gt;K13210&lt;/td&gt;
+&lt;td&gt;FUBP; far upstream element-binding protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_045510.1&lt;/td&gt;
+&lt;td&gt;K12160&lt;/td&gt;
+&lt;td&gt;SUMO, SMT3; small ubiquitin-related modifier&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_046600.1&lt;/td&gt;
+&lt;td&gt;K05692&lt;/td&gt;
+&lt;td&gt;ACTB_G1; actin beta/gamma 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_053940.1&lt;/td&gt;
+&lt;td&gt;K12741&lt;/td&gt;
+&lt;td&gt;HNRNPA1_3; heterogeneous nuclear ribonucleoprotein A1/A3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_070200.1&lt;/td&gt;
+&lt;td&gt;K14325&lt;/td&gt;
+&lt;td&gt;RNPS1; RNA-binding protein with serine-rich domain 1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_074390.1&lt;/td&gt;
+&lt;td&gt;K18644&lt;/td&gt;
+&lt;td&gt;EIF4EBP2; eukaryotic translation initiation factor 4E binding protein 2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_078640.1&lt;/td&gt;
+&lt;td&gt;K12622&lt;/td&gt;
+&lt;td&gt;LSM3; U6 snRNA-associated Sm-like protein LSm3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_079430.2&lt;/td&gt;
+&lt;td&gt;K07936&lt;/td&gt;
+&lt;td&gt;RAN; GTP-binding nuclear protein Ran&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_083410.1&lt;/td&gt;
+&lt;td&gt;K03233&lt;/td&gt;
+&lt;td&gt;EEF1G; elongation factor 1-gamma&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_094150.1&lt;/td&gt;
+&lt;td&gt;K12625&lt;/td&gt;
+&lt;td&gt;LSM6; U6 snRNA-associated Sm-like protein LSm6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099630.1&lt;/td&gt;
+&lt;td&gt;K15516&lt;/td&gt;
+&lt;td&gt;FMR; fragile X mental retardation protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099630.1&lt;/td&gt;
+&lt;td&gt;K15516&lt;/td&gt;
+&lt;td&gt;FMR; fragile X mental retardation protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099630.1&lt;/td&gt;
+&lt;td&gt;K15516&lt;/td&gt;
+&lt;td&gt;FMR; fragile X mental retardation protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_099870.1&lt;/td&gt;
+&lt;td&gt;K03231&lt;/td&gt;
+&lt;td&gt;EEF1A; elongation factor 1-alpha&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_102040.1&lt;/td&gt;
+&lt;td&gt;K14753&lt;/td&gt;
+&lt;td&gt;RACK1; guanine nucleotide-binding protein subunit beta-2-like 1 protein&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_103790.1&lt;/td&gt;
+&lt;td&gt;K07374&lt;/td&gt;
+&lt;td&gt;TUBA; tubulin alpha&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_105970.1&lt;/td&gt;
+&lt;td&gt;K18743&lt;/td&gt;
+&lt;td&gt;CAPRIN1, GPIAP1; caprin-1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_106130.2&lt;/td&gt;
+&lt;td&gt;K04043&lt;/td&gt;
+&lt;td&gt;dnaK; molecular chaperone DnaK&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_124820.1&lt;/td&gt;
+&lt;td&gt;K14290&lt;/td&gt;
+&lt;td&gt;XPO1, CRM1; exportin-1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_157680.1&lt;/td&gt;
+&lt;td&gt;K12623&lt;/td&gt;
+&lt;td&gt;LSM4; U6 snRNA-associated Sm-like protein LSm4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_167290.1&lt;/td&gt;
+&lt;td&gt;K14300&lt;/td&gt;
+&lt;td&gt;NUP133; nuclear pore complex protein Nup133&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Smp_175550.1&lt;/td&gt;
+&lt;td&gt;K12627&lt;/td&gt;
+&lt;td&gt;LSM8; U6 snRNA-associated Sm-like protein LSm8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
