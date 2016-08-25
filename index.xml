@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lu et al. Poster No.</title>
+    <title>Lu et al. Poster No. 20</title>
     <link>/hydra2016/</link>
-    <description>Recent content on Lu et al. Poster No.</description>
+    <description>Recent content on Lu et al. Poster No. 20</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</managingEditor>
     <webMaster>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</webMaster>
     <atom:link href="/hydra2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abstract Genes</title>
+      <link>/hydra2016/Abstract-genes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
+      <guid>/hydra2016/Abstract-genes/</guid>
+      <description>&lt;p&gt;Transcript profiles of genes mentioned in the Abstract.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;/hydra2016/hydra2016/Files/abstract1.png&#34; /&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;/hydra2016/hydra2016/Files/abstract2.png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Figure 1</title>
@@ -429,7 +442,7 @@
 &lt;tr&gt;
 &lt;th&gt;KEGG Brite&lt;/th&gt;
 &lt;th&gt;Category&lt;/th&gt;
-&lt;th&gt;No. in bO&lt;/th&gt;
+&lt;th&gt;No.&lt;/th&gt;
 &lt;th&gt;Examples&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -2148,194 +2161,6 @@
 &lt;td&gt;Smp_179300.1&lt;/td&gt;
 &lt;td&gt;K09250&lt;/td&gt;
 &lt;td&gt;CNBP; cellular nucleic acid-binding protein&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>bO-ko03009</title>
-      <link>/hydra2016/suppl/bO-ko03009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>Zhigang.Lu@bio.uni-giessen.de (Lu, Z. et al.)</author>
-      <guid>/hydra2016/suppl/bO-ko03009/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Gene ID&lt;/th&gt;
-&lt;th&gt;KEGG Brite&lt;/th&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Smp_005080.2&lt;/td&gt;
-&lt;td&gt;K14835&lt;/td&gt;
-&lt;td&gt;NOP2; ribosomal RNA methyltransferase Nop2 [EC:2.1.1.-]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_012980.1&lt;/td&gt;
-&lt;td&gt;K03245&lt;/td&gt;
-&lt;td&gt;EIF3J; translation initiation factor 3 subunit J&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_013790.1&lt;/td&gt;
-&lt;td&gt;K12823&lt;/td&gt;
-&lt;td&gt;DDX5, DBP2; ATP-dependent RNA helicase DDX5/DBP2 [EC:3.6.4.13]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_025010.1&lt;/td&gt;
-&lt;td&gt;K03115&lt;/td&gt;
-&lt;td&gt;CSNK2B; casein kinase II subunit beta&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_029750.1&lt;/td&gt;
-&lt;td&gt;K14800&lt;/td&gt;
-&lt;td&gt;TSR2; pre-rRNA-processing protein TSR2&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_034190.1&lt;/td&gt;
-&lt;td&gt;K13025&lt;/td&gt;
-&lt;td&gt;EIF4A3, FAL1; ATP-dependent RNA helicase [EC:3.6.4.13]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_038930.1&lt;/td&gt;
-&lt;td&gt;K14799&lt;/td&gt;
-&lt;td&gt;TSR1; pre-rRNA-processing protein TSR1&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_040540.1&lt;/td&gt;
-&lt;td&gt;K06185&lt;/td&gt;
-&lt;td&gt;ABCF2; ATP-binding cassette, subfamily F, member 2&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_044280.1&lt;/td&gt;
-&lt;td&gt;K14563&lt;/td&gt;
-&lt;td&gt;NOP1, FBL; rRNA 2&amp;rsquo;-O-methyltransferase fibrillarin [EC:2.1.1.-]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_048660.1&lt;/td&gt;
-&lt;td&gt;K14564&lt;/td&gt;
-&lt;td&gt;NOP56; nucleolar protein 56&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_068920.3&lt;/td&gt;
-&lt;td&gt;K11131&lt;/td&gt;
-&lt;td&gt;DKC1, NOLA4, CBF5; H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_079430.2&lt;/td&gt;
-&lt;td&gt;K07936&lt;/td&gt;
-&lt;td&gt;RAN; GTP-binding nuclear protein Ran&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_087270.1&lt;/td&gt;
-&lt;td&gt;K12820&lt;/td&gt;
-&lt;td&gt;DHX15, PRP43; pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15/PRP43 [EC:3.6.4.13]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_093320.1&lt;/td&gt;
-&lt;td&gt;K11130&lt;/td&gt;
-&lt;td&gt;NOP10, NOLA3; H/ACA ribonucleoprotein complex subunit 3&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_094020.1&lt;/td&gt;
-&lt;td&gt;K13179&lt;/td&gt;
-&lt;td&gt;DDX18, HAS1; ATP-dependent RNA helicase DDX18/HAS1 [EC:3.6.4.13]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_094570.1&lt;/td&gt;
-&lt;td&gt;K14552&lt;/td&gt;
-&lt;td&gt;NAN1, UTP17, WDR75; NET1-associated nuclear protein 1 (U3 small nucleolar RNA-associated protein 17)&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_099030.1&lt;/td&gt;
-&lt;td&gt;K03097&lt;/td&gt;
-&lt;td&gt;CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_106930.1&lt;/td&gt;
-&lt;td&gt;K03283&lt;/td&gt;
-&lt;td&gt;HSPA1_8; heat shock 70kDa protein &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_124460.1&lt;/td&gt;
-&lt;td&gt;K06174&lt;/td&gt;
-&lt;td&gt;ABCE1, Rli1; ATP-binding cassette, sub-family E, member 1&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_124820.1&lt;/td&gt;
-&lt;td&gt;K14290&lt;/td&gt;
-&lt;td&gt;XPO1, CRM1; exportin-1&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_133350.1&lt;/td&gt;
-&lt;td&gt;K06943&lt;/td&gt;
-&lt;td&gt;NOG1; nucleolar GTP-binding protein&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_138160.1&lt;/td&gt;
-&lt;td&gt;K15262&lt;/td&gt;
-&lt;td&gt;BCP1, BCCIP; protein BCP1&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_148990.1&lt;/td&gt;
-&lt;td&gt;K14565&lt;/td&gt;
-&lt;td&gt;NOP58; nucleolar protein 58&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_150690.1&lt;/td&gt;
-&lt;td&gt;K14813&lt;/td&gt;
-&lt;td&gt;ARX1; metalloprotease ARX1 [EC:3.-.-.-]&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_150840.2&lt;/td&gt;
-&lt;td&gt;K15263&lt;/td&gt;
-&lt;td&gt;LYER; cell growth-regulating nucleolar protein&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_160420.1&lt;/td&gt;
-&lt;td&gt;K14823&lt;/td&gt;
-&lt;td&gt;EBP2, EBNA1BP2; rRNA-processing protein EBP2&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_210300.1&lt;/td&gt;
-&lt;td&gt;K02936&lt;/td&gt;
-&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Smp_210310.1&lt;/td&gt;
-&lt;td&gt;K02936&lt;/td&gt;
-&lt;td&gt;RP-L7Ae, RPL7A; large subunit ribosomal protein L7Ae&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
